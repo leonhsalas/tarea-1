@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+}
+
+.border{
+    border: black solid .5px;
+    width: 10px;
+    height: 10px;
+}
+
+.black{
+    background-color: black;
+}
+
+.blue{
+    background-color: dodgerblue;
+}
+
+.cream{
+    background-color: blanchedalmond;
+}
+
+.green{
+    background-color: yellowgreen;
+}
+
+.red{
+    background-color: red;
+}
+
+
+.fake{
+    border: white solid .5px;
+    width: 10px;
+    height: 10px;
+}
